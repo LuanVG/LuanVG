@@ -1,4 +1,4 @@
-## Olá, meu nome é Luan.
+## Olá, meu nome é Luan Victor.
 ### Seja Bem-Vindo.
 
 - Cursando Análise e Desenvolvimento de Sistemas na UNINOVE <br>
