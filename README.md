@@ -1,4 +1,4 @@
-# Olá, meu nome é Luan.
+# Olá, meu nome é Luan Victor,
 
 ### Seja Bem-Vindo ao meu perfil!
 
@@ -9,9 +9,7 @@
 
 ## Sobre mim:
 
-- Cursando Análise e Desenvolvimento de Sistemas na UNINOVE <br>
-- Estudando <b>HTML, CSS, JavaScript</b> na plataforma DIO.me e na Udemy.
-
+- 📚 Cursando Análise e Desenvolvimento de Sistemas na UNINOVE, Estudando <b>HTML, CSS, JavaScript</b> na plataforma DIO.me e na Udemy. <br>
 - 👨‍💻 Sempre tive admiração na área da tecnologia, agora que estou me aprofundando na área, cada dia que passa estou amando em aprender algo novo.
 - 🥊 Apaixonado em esportes de luta.
 - 💻 Atualmente focado em aprender:
