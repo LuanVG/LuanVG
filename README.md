@@ -1,12 +1,14 @@
-## Olá, meu nome é Luan Victor.
+## Olá, meu nome é Luan Victor,
 ### Seja Bem-Vindo.
 
 - Cursando Análise e Desenvolvimento de Sistemas na UNINOVE <br>
-- *Estudando HTML, CSS, JavaScript* na plataforma DIO.me
+- *Estudando HTML, CSS, JavaScript* na plataforma DIO.me e na Udemy.
 
 - 👨‍💻 Sempre tive admiração na área da tecnologia, agora que estou me aprofundando na área, cada dia que passa estou amando em aprender algo novo.
 - 🥊 Apaixonado em esportes de luta.
 - 💻 Atualmente focado em aprender:
+
+  ## FRONT-END.
   
 <div display='inline'>
   <img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
