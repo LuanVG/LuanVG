@@ -1,8 +1,8 @@
-# Olá, meu nome é Luan.
+## Olá, meu nome é Luan.
 
-## Seja Bem-Vindo ao meu perfil!
+### Seja Bem-Vindo ao meu perfil!
 
-## Conecte-se comigo:
+### Conecte-se comigo:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/luan-vg-79386722b/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/LuanVG/)
