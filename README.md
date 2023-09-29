@@ -10,7 +10,7 @@
 ## Sobre mim:
 
 - 📚 Cursando Análise e Desenvolvimento de Sistemas na UNINOVE, Estudando <b>HTML, CSS, JavaScript</b> na plataforma DIO.me e na Udemy. <br>
-- 👨‍💻 Sempre tive admiração na área da tecnologia, agora que estou me aprofundando na área, cada dia que passa estou amando em aprender algo novo.
+- 🙌 Sempre tive admiração na área da tecnologia, agora que estou me aprofundando na área, cada dia que passa estou amando em aprender algo novo.
 - 🥊 Apaixonado em esportes de luta.
 - 💻 Atualmente focado em aprender:
 
