@@ -8,7 +8,7 @@
 - 🥊 Apaixonado em esportes de luta.
 - 💻 Atualmente focado em aprender:
 
-  ### -!> FRONT-END <-
+  ###  FRONT-END
   
 <div display='inline'>
   <img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
