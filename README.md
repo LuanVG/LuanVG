@@ -12,9 +12,9 @@
 - 📚 Cursando Análise e Desenvolvimento de Sistemas na UNINOVE, Estudando <b>HTML, CSS, JavaScript</b> na plataforma DIO.me e na Udemy. <br>
 - 🙌 Sempre tive admiração na área da tecnologia, agora que estou me aprofundando na área, cada dia que passa estou amando em aprender algo novo.
 - 🥊 Apaixonado em esportes de luta.
-- 💻 Atualmente focado em aprender:
+  
 
-## Tecnologias FRONT-END;
+## 💻 Atualmente focado em aprender: Tecnologias FRONT-END;
 
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
