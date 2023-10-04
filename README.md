@@ -1,4 +1,4 @@
-# Olá, meu nome é Luan Victor,
+# Olá, meu nome é Luan Victor.
 
 ### Seja Bem-Vindo ao meu perfil!
 
