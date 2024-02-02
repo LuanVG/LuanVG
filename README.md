@@ -2,7 +2,7 @@
 
 ### Seja Bem-Vindo ao meu perfil!
 
-### Conecte-se comigo através:
+## Conecte-se comigo através:
 
 [![LinkedIn](https://img.shields.io/badge/-Luan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luan-vg-79386722b/)](https://www.linkedin.com/in/luan-vg-79386722b/)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://www.github.com/LuanVG)
@@ -12,10 +12,14 @@
 
 ## Sobre mim;
 
-- 📚 Aluno de Análise e Desenvolvimento de Sistemas na UNINOVE, imerso nos estudos de HTML, CSS e JavaScript pela DIO.me e Udemy.
-- 🚀 Explorando minha paixão pela tecnologia, descubro diariamente o fascinante universo do desenvolvimento.
-- 🥊 Entusiasta fervoroso dos esportes de luta, onde a disciplina e a resiliência se conectam ao meu amor pela superação.
-  
+🚀 Bem-vindo ao meu universo tecnológico! Meu nome é Luan Victor, um explorador ávido do código fonte e apaixonado por transformar ideias em realidade digital.
+
+📚 Atualmente, estou mergulhado nos estudos de HTML, CSS e JavaScript pela DIO.me e Udemy, enquanto navego pelos desafios emocionantes do curso de Análise e Desenvolvimento de Sistemas na UNINOVE.
+
+🥊 Fora do mundo virtual, sou um entusiasta fervoroso dos esportes de luta, onde a disciplina e a resiliência se tornam minhas aliadas na jornada do desenvolvimento pessoal.
+
+💻 Junte-se a mim nessa jornada de descobertas tecnológicas e vamos criar algo extraordinário juntos!
+
 
 ## Tecnologias Front-End;
 
