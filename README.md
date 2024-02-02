@@ -5,7 +5,7 @@
 ### Conecte-se comigo através:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/luan-vg-79386722b/)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)(https://github.com/LuanVG/)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)(https://github.com/LuanVG/)
 
 ## Sobre mim:
 
