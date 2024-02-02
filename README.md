@@ -9,9 +9,10 @@
 
 ## Sobre mim:
 
-- 📚 Aluno de Análise e Desenvolvimento de Sistemas na UNINOVE, imerso nos estudos de HTML, CSS e JavaScript pela [DIO.me](https://www.digitalinnovation.one/) e [Udemy](https://www.udemy.com/).
+- 📚 Aluno de Análise e Desenvolvimento de Sistemas na UNINOVE, imerso nos estudos de HTML, CSS e JavaScript pela DIO.me e Udemy.
 - 🚀 Explorando minha paixão pela tecnologia, descubro diariamente o fascinante universo do desenvolvimento.
 - 🥊 Entusiasta fervoroso dos esportes de luta, onde a disciplina e a resiliência se conectam ao meu amor pela superação.
+  
 
 ## 💻 Atualmente focado em aprender: Tecnologias FRONT-END;
 
@@ -21,10 +22,11 @@
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
-## 🛠️ Estatísticas de Ferramentas:
 
-![VS Code](https://img.shields.io/badge/VS%20Code-000?style=for-the-badge&logo=visual-studio-code&logoColor=30A3DC)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)
-![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=30A3DC)
+## Git Status
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuanVG&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true&hide=stars)
+
+## Minhas Contribuições
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanVG&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/LuanVG/dio-lab-open-source)
