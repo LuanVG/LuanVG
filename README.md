@@ -6,6 +6,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/-Luan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luan-vg-79386722b/)](https://www.linkedin.com/in/luan-vg-79386722b/)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://www.github.com/LuanVG)
+[![Gmail Badge](https://img.shields.io/badge/-luan_g.12@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
+
 ## Sobre mim:
 
 - 📚 Aluno de Análise e Desenvolvimento de Sistemas na UNINOVE, imerso nos estudos de HTML, CSS e JavaScript pela DIO.me e Udemy.
