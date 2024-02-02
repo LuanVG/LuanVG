@@ -42,5 +42,5 @@
 </div>
 
 <p align="center">
-  (https://profile-counter.glitch.me/LuanVG/count.svg)
-</p>!
+  <img src="https://profile-counter.glitch.me/LuanVG/count.svg" alt="Número de visitantes no perfil">
+</p>
