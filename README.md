@@ -36,3 +36,5 @@
 
 ## Minhas Contribuições;
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanVG&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/LuanVG/dio-lab-open-source)
+
+![Número de visitantes no perfil](https://profile-counter.glitch.me/LuanVG/count.svg)
