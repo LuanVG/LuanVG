@@ -2,16 +2,16 @@
 
 ### Seja Bem-Vindo ao meu perfil!
 
-### Conecte-se comigo:
+### Conecte-se comigo através:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/luan-vg-79386722b/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/LuanVG/)
 
 ## Sobre mim:
 
-- 📚 Cursando Análise e Desenvolvimento de Sistemas na UNINOVE, Estudando <b>HTML, CSS, JavaScript</b> na plataforma DIO.me e na Udemy. <br>
-- 🙌 Sempre tive admiração na área da tecnologia, agora que estou me aprofundando na área, cada dia que passa estou amando em aprender algo novo.
-- 🥊 Apaixonado em esportes de luta.
+- 📚 Aluno de Análise e Desenvolvimento de Sistemas na UNINOVE, imerso nos estudos de HTML, CSS e JavaScript pela DIO.me e Udemy.
+- 🚀 Explorando minha paixão pela tecnologia, descubro diariamente o fascinante universo do desenvolvimento.
+- 🥊 Entusiasta fervoroso dos esportes de luta, onde a disciplina e a resiliência se conectam ao meu amor pela superação.
   
 
 ## 💻 Atualmente focado em aprender: Tecnologias FRONT-END;
