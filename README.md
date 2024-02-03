@@ -38,7 +38,7 @@
 
 ## Git Status;
 
-[![LuanVG's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuanVG&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=false&hide=stars)](https://github.com/LuanVG/github-readme-stats)
+[![LuanVG's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuanVG&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=false&hide=stars)](https://github.com/LuanVG/github-readme-stats) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanVG&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/LuanVG)
 
 ## Minhas Contribuições;
