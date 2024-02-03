@@ -2,6 +2,8 @@
 
 ### <i>Bem-vindo à minha jornada no mundo do código!</i>
 
+🚀 Estou em meio a uma empolgante transição de carreira, para abraçar minha paixão pelo desenvolvimento web, estou comprometido com o aprendizado contínuo e a aplicação prática dos conhecimentos adquiridos para realizar a transição de carreira e ingressar na área de TI!
+
 ## <i>Conecte-se comigo através</i>:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luan-vg-79386722b/)](https://www.linkedin.com/in/luan-vg-79386722b/)
