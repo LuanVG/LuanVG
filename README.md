@@ -1,8 +1,8 @@
 # Olá, meu nome é Luan Victor.
 
-### <i>Seja Bem-Vindo ao meu perfil</i>!
+### <i>Bem-vindo à minha jornada no mundo do código!</i>
 
-## Conecte-se comigo através:
+## <i>Conecte-se comigo através</i>:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luan-vg-79386722b/)](https://www.linkedin.com/in/luan-vg-79386722b/)
 [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)](https://www.github.com/LuanVG)
@@ -12,7 +12,7 @@
 
 
 
-## Sobre mim;
+## <i>Sobre mim</i>;
 
 🚀 Bem-vindo ao meu universo tecnológico! Meu nome é Luan Victor, um explorador ávido do código fonte e apaixonado por transformar ideias em realidade digital.
 
@@ -23,7 +23,7 @@
 💻 Junte-se a mim nessa jornada de descobertas tecnológicas e vamos criar algo extraordinário juntos!
 
 
-## Se aprofundando nas seguintes Tecnologias;
+## <i>Se aprofundando nas seguintes Tecnologias</i>;
 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -31,20 +31,20 @@
 ![React Native](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 
-## DevOps;
+## <i>DevOps</i>;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-## Ferramentas de desenvolvimento;
+## <i>Ferramentas de desenvolvimento</i>;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 [![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)](https://www.visualstudio.com/)
 
-## Git Status;
+## <i>Git Status</i>;
 
 [![LuanVG's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuanVG&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=false&hide=stars)](https://github.com/LuanVG/github-readme-stats) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanVG&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/LuanVG)
 
-## Minhas Contribuições;
+## <i>Minhas Contribuições</i>;
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LuanVG&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/LuanVG/dio-lab-open-source)
 
 <div align="center">
