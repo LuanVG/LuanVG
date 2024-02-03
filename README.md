@@ -37,6 +37,7 @@
 
 ## Ferramentas de desenvolvimento;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+[![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)](https://www.visualstudio.com/)
 
 ## Git Status;
 
