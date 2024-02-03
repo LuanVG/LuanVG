@@ -4,7 +4,7 @@
 
 ## Conecte-se comigo através:
 
-[![LinkedIn](https://img.shields.io/badge/-Luan-Gonçalves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luan-vg-79386722b/)](https://www.linkedin.com/in/luan-vg-79386722b/)
+[![LinkedIn](https://img.shields.io/badge/-LuanVictor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luan-vg-79386722b/)](https://www.linkedin.com/in/luan-vg-79386722b/)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://www.github.com/LuanVG)
 [![Gmail Badge](https://img.shields.io/badge/-luan_g.12@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luan_g.12@hotmail.com)](mailto:luan_g.12@hotmail.com)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white)](https://wa.me/5511984478038?text=Sua%20mensagem%20aqui)
