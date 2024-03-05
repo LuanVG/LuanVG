@@ -18,7 +18,7 @@
 
 🚀 Bem-vindo ao meu universo tecnológico! Meu nome é Luan Victor, um explorador ávido do código fonte e apaixonado por transformar ideias em realidade digital.
 
-📚 Atualmente, estou mergulhado nos estudos de HTML, CSS e JavaScript pela DIO.me e Udemy, enquanto navego pelos desafios emocionantes do curso de Análise e Desenvolvimento de Sistemas na UNINOVE.
+📚 Atualmente, estou mergulhado nos estudos de HTML,CSS,JavaScript,Node.js,TypeScript,Docker pela DIO.me e Udemy, enquanto navego pelos desafios emocionantes do curso de Análise e Desenvolvimento de Sistemas na UNINOVE.
 
 🥊 Fora do mundo virtual, sou um entusiasta fervoroso dos esportes de luta, onde a disciplina e a resiliência se tornam minhas aliadas na jornada do desenvolvimento pessoal.
 
